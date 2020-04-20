@@ -69,5 +69,5 @@ plt.show()
 #frames  帧 设定帧长度
 #blit 动态移动坐标。为True时坐标固定
 #interval 更新间隔：单位毫秒
-#self.x和self.y设置成数值，为坐标的点
-#
+
+
